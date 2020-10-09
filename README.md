@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Artem :octocat: 👋
 
 - ✨ I’m currently working on ITlabel
 - 📱 I like to improve my React skills
